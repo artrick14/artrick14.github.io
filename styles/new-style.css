@@ -20,10 +20,6 @@ html, body {
     color: lightblue;
     font-style: normal;
   }
-
-  a:visited {
-    color: crimson;
-  }
   
   /* || typography */
   
@@ -86,13 +82,13 @@ html, body {
   }
   
   nav {
-    height: 50px;
+    height: 70px;
     flex: 100%;
     display: flex;
   }
   
   nav ul {
-    padding: 0;
+    padding: 5;
     list-style-type: none;
     flex: 2;
     display: flex;
