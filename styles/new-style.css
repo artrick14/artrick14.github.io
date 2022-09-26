@@ -127,6 +127,17 @@ html, body {
   main img {
     max-width: 100%;
   }
+
+  .news-entry {
+    padding: 2%;
+    border: 5px;
+    border-style: dotted;
+  }
+
+  .date {
+    font-size: 1.2rem;
+    color: grey;
+  }
   
   article, section {
     flex: 4;
