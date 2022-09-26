@@ -17,8 +17,7 @@ html, body {
   }
 
   a:hover {
-    color: darkgray;
-    font-style: normal;
+    text-decoration: underline;
   }
   
   /* || typography */
@@ -60,7 +59,7 @@ html, body {
   
   main, header, nav, article, aside, footer, section {
     background-color: lightpink;
-    padding: 1%;
+    padding: 0%;
   }
   
   h1 {
@@ -81,7 +80,7 @@ html, body {
   }
   
   nav ul {
-    padding: 5;
+    padding: 3;
     list-style-type: none;
     flex: 2;
     display: flex;
@@ -101,10 +100,6 @@ html, body {
     text-transform: uppercase;
     text-decoration: none;
     color: black;
-  }
-
-  nav a:hover {
-    text-decoration: underline;
   }
   
   /* || main layout */
