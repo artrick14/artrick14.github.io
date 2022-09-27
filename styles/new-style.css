@@ -117,10 +117,6 @@ html, body {
     border: 5px;
     border-style: dotted;
   }
-
-  p, li {
-    display: flex;
-  }
   
   article, section {
     flex: 4;
