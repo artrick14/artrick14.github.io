@@ -105,7 +105,7 @@ html, body {
   /* || main layout */
   
   main {
-    display: flex;
+    display: inline-block;
   }
 
   main img {
@@ -122,10 +122,17 @@ html, body {
     flex: 4;
   }
   
-  aside {
+  aside .left-pictures {
     flex: 1;
     margin-left: 10px;
     padding: 1%;
+  }
+
+  aside .right-pictures {
+    flex: 1;
+    margin-right: 10px;
+    padding: 1%;
+    padding-top: 10%;
   }
   
   aside a {
