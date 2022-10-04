@@ -105,7 +105,7 @@ html, body {
   /* || main layout */
   
   main {
-    display: inline-block;
+    display: block;
   }
 
   main img {
