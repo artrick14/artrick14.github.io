@@ -68,7 +68,8 @@ html, body {
   }
   
   header img {
-    display: block;
+    display: inline-block;
+    text-align: center;
     height: 60px;
     padding-top: 20.15px;
   }
@@ -136,7 +137,7 @@ html, body {
   }
   
   aside a {
-    display: block;
+    display: inline;
     float: left;
     width: 50%;
   }
