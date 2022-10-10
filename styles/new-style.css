@@ -110,11 +110,12 @@ html, body {
   }
 
   main img {
-    max-width: 100%;
+    text-align: center;
+    max-width: 50%;
   }
 
   .news-entry {
-    padding-top: 25px;
+    padding-top: 50px;
     border: 5px;
     border-style: dotted;
   }
@@ -139,7 +140,7 @@ html, body {
   }
   
   aside img {
-    max-width: 50%;
+    max-width: 40%;
   }
   
   footer {
