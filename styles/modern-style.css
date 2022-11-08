@@ -1,0 +1,37 @@
+/* General Styling */
+
+html {
+    font-size: 10px;
+    background-color: #FFB8BF;
+}
+
+/* Typography */
+/* 
+    10px font established in the beginning and then all the specific areas of 
+    the page specify their own size using rem to ensure the adaptability and 
+    reusability of the code 
+*/
+
+h1 {
+    font-size: 4rem;
+    text-align: center;
+}
+
+h2 {
+    font-size: 3rem;
+}
+  
+h3 {
+    font-size: 2.2rem;
+}
+
+p, li {
+    font-size: 1.6rem;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Navigation Bar Styling */
+

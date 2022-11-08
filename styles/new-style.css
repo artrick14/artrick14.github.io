@@ -15,10 +15,6 @@ html, body {
     min-width: 800px;
     margin: 0 auto;
   }
-
-  a:hover {
-    text-decoration: underline;
-  }
   
   /* || typography */
   
@@ -47,6 +43,10 @@ html, body {
   
   p, li {
     font-size: 1.6rem;
+  }
+
+  a:hover {
+    text-decoration: underline;
   }
   
   /* || header layout */
@@ -125,6 +125,7 @@ html, body {
   }
   
   aside .left-pictures {
+    text-align: left;
     display: flex;
     flex: 1;
     margin-left: 10px;
@@ -132,6 +133,7 @@ html, body {
   }
 
   aside .right-pictures {
+    text-align: right;
     display: flex;
     flex: 1;
     margin-right: 10px;
@@ -140,7 +142,7 @@ html, body {
   }
   
   aside img {
-    max-width: 40%;
+    max-width: 35%;
   }
   
   footer {
