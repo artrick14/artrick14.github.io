@@ -35,3 +35,37 @@ a:hover {
 
 /* Navigation Bar Styling */
 
+header {
+    margin-bottom: 15px;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+nav {
+    height: 70px;
+    flex: 100%;
+    display: flex;
+    padding-bottom: 5px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    flex: 2;
+    display: flex;
+  }
+  
+  nav li {
+    display: inline;
+    text-align: center;
+    flex: 1;
+  }
+  
+  nav a, nav span {
+    display: inline-block;
+    font-size: 2rem;
+    height: 3rem;
+    line-height: 1.7;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+  }
