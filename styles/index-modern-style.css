@@ -1,0 +1,19 @@
+
+.box-one {
+    margin-top: 75px;
+    margin-left: 20px;
+    background-color: #5DB370;
+}
+
+.box-one h2 {
+    text-align: center;
+}
+
+.box-one p {
+    font-size: 1.6rem;
+}
+
+.box-one img {
+    text-align: right;
+    max-width: 35%;
+}
