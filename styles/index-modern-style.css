@@ -1,14 +1,11 @@
 
 header {
     background-image: url(../images/Kiki_Perch_Extension.jpg);
-    display: flex;
+    object-fit: cover;
 }
 
 .box-one {
-    margin-top: 75px;
-    margin-left: 20px;
-    height: 300px;
-    width: 500px;
+    display: flex;
     background-color: #5DB370;
 }
 
