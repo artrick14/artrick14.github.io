@@ -33,11 +33,10 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Navigation Bar Styling */
+/* Header Styling */
 
 header {
-    margin-bottom: 15px;
-    display: flex;
+    margin-bottom: 40px;
     flex-flow: row wrap;
 }
 
