@@ -1,6 +1,7 @@
 
 header {
     background-image: url(../images/Kiki_Perch_Extension.jpg);
+    display: flex;
 }
 
 .box-one {
@@ -18,11 +19,11 @@ header {
 .box-one p {
     font-size: 1.6rem;
     text-anchor: start;
-    overflow: auto;
+
 }
 
 .box-one img {
-    position: fixed;
     text-align: right;
     max-width: 35%;
+    display: flex;
 }
