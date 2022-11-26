@@ -1,26 +1,16 @@
 
+/* Header Styling */
 header {
     background-image: url(../images/Kiki_Perch_Extension.jpg);
     background-size: cover;
 }
 
+/* Box One Styling */
+
 .box-one {
-    display: flex;
-    background-color: #5DB370;
-}
-
-.box-one h2 {
-    text-align: left;
-}
-
-.box-one p {
-    font-size: 1.6rem;
-    text-anchor: start;
-
-}
-
-.box-one img {
-    text-align: right;
-    max-width: 35%;
-    display: flex;
+    display: block;
+    background-color: #add8e6;
+    margin-left: 5rem;
+    margin-right: 60rem;
+    padding: 1.5;
 }

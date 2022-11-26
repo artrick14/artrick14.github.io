@@ -73,7 +73,7 @@ nav {
     font-size: 2rem;
     height: 3rem;
     line-height: 1.7;
-    text-transform: uppercase;
+    text-transform: uppercase, bold;
     text-decoration: none;
-    color: black;
+    color: #e75480;
   }
