@@ -70,10 +70,11 @@ nav {
   
   nav a, nav span {
     display: inline-block;
-    font-size: 2rem;
+    font-size: 2.5rem;
+    font-weight: bold;
     height: 3rem;
     line-height: 1.7;
-    text-transform: uppercase, bold;
+    text-transform: uppercase;
     text-decoration: none;
-    color: #e75480;
+    color: black;
   }
