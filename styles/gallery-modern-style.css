@@ -4,5 +4,19 @@ header {
 }
 
 img {
-    max-width: 32rem;
+    max-width: 50rem;
+}
+
+.pic_01, .pic_03, .pic_05, .pic_07 {
+    margin-left: 7rem;
+    margin-right: 70rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+.pic_02, .pic_04, .pic_06, .pic_08 {
+    margin-left: 70rem;
+    margin-right: 7rem;
+    text-align: center;
+    font-weight: bold;
 }
