@@ -2,13 +2,17 @@
 
 @font-face {
     font-family: kikiFont;
-    src: url(../../../fonts/reef/Reef.otf);
+    src: url(../fonts/reef/Reef.otf);
 }
 
 html {
     font-size: 10px;
     font-family: kikiFont;
     background-color: #FFB8BF;
+}
+
+body {
+    margin: 0%;
 }
 
 /* Sizing and Formatting */
@@ -42,20 +46,19 @@ a:hover {
 /* Header Styling */
 
 header {
-    margin-bottom: 200px;
-    flex-flow: row wrap;
+    padding-bottom: 20rem;
 }
 
 nav {
-    height: 70px;
+    height: 7rem;
     flex: 100%;
     display: flex;
-    padding-bottom: 5px;
+    padding-bottom: .5rem;
   }
   
   nav ul {
     list-style-type: none;
-    flex: 2;
+    flex: auto;
     display: flex;
   }
   
