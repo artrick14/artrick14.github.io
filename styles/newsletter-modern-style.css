@@ -5,13 +5,13 @@ header {
 }
 
 /* Newsletter Entries */
-.news_entry {
+.news-entry h3 {
+    font-weight: bold;
+}
+
+.news-entry {
     margin-left: 7rem;
     margin-right: 7rem;
     border-style: dotted;
     border-color: white;
-}
-
-.news_entry h3 {
-    font-weight: bold;
 }
