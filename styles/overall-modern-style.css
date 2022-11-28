@@ -49,6 +49,10 @@ header {
     padding-bottom: 20rem;
 }
 
+#title {
+    color: white;
+}
+
 nav {
     height: 7rem;
     flex: 100%;

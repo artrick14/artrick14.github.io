@@ -1,0 +1,17 @@
+/* Header Styling */
+header {
+    background-image: url(../images/Kiki_Perch_Extension.jpg);
+    background-size: cover;
+}
+
+/* Newsletter Entries */
+.news_entry {
+    margin-left: 7rem;
+    margin-right: 7rem;
+    border-style: dotted;
+    border-color: white;
+}
+
+.news_entry h3 {
+    font-weight: bold;
+}
