@@ -12,6 +12,7 @@ img {
     margin-right: 70rem;
     text-align: center;
     font-weight: bold;
+    background-color: rgba(231, 84, 128, 0.85);
 }
 
 .pic-02, .pic-04, .pic-06, .pic-08 {
@@ -19,4 +20,5 @@ img {
     margin-right: 7rem;
     text-align: center;
     font-weight: bold;
+    background-color: rgba(231, 84, 128, 0.85);
 }

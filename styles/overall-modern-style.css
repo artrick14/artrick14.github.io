@@ -60,6 +60,7 @@ nav {
     list-style-type: none;
     flex: auto;
     display: flex;
+    background-color: rgba(245, 245, 245, 0.85);
   }
   
   nav li {
@@ -77,5 +78,4 @@ nav {
     text-transform: uppercase;
     text-decoration: none;
     color: black;
-    background-color: rgba(245, 245, 245, 0.85);
   }
