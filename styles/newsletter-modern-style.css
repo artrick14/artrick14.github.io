@@ -10,8 +10,10 @@ header {
 }
 
 .news-entry {
-    margin-left: 7rem;
-    margin-right: 7rem;
+    margin: 1rem 7rem 2rem 7rem;
     border-style: dotted;
     border-color: white;
+    border-width: 5px;
+
 }
+
