@@ -7,19 +7,20 @@ header {
 
 /* Box One Styling */
 
-.box-one {
-    display: block;
+.furry-friends {
+    display: flex;
     background-color: rgba(231, 84, 128, 0.85);
-    text-align: center;
+    text-align: left;
     margin-left: 7rem;
     margin-right: 7rem;
     padding: .5rem 1rem .5rem 1rem;
 }
 
-.box-one h2 {
-    text-align: left;
-}
-
-.box-one p {
-    text-align: left;
+.announcements {
+    display: flex;
+    background-color: rgba(231, 84, 128, 0.85);
+    text-align: right;
+    margin-left: 7rem;
+    margin-right: 7rem;
+    padding: .5rem 1rem .5rem 1rem;
 }
