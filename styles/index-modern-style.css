@@ -5,22 +5,40 @@ header {
     background-size: cover;
 }
 
-/* Box One Styling */
+/* Main Content Styling */
 
+main h2 {
+    text-align: center;
+}
+
+.content {
+    display: flex;
+}
+
+/* Furry Friends Box Styling */
 .furry-friends {
     display: flex;
     background-color: rgba(231, 84, 128, 0.85);
     text-align: left;
     margin-left: 7rem;
-    margin-right: 7rem;
+    margin-right: 50rem;
     padding: .5rem 1rem .5rem 1rem;
 }
 
+.furry-friends h2 {
+    text-align: center;
+}
+
+/* Announcements Box Styling */
 .announcements {
     display: flex;
     background-color: rgba(231, 84, 128, 0.85);
     text-align: right;
-    margin-left: 7rem;
+    margin-left: 90rem;
     margin-right: 7rem;
     padding: .5rem 1rem .5rem 1rem;
+}
+
+.announcements h2 {
+    text-align: center;
 }
