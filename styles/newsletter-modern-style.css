@@ -6,10 +6,6 @@ header {
 
 /* Newsletter Entries */
 
-body h1 {
-    margin-top: 1rem;
-}
-
 .news-entry h3 {
     font-weight: bold;
 }
