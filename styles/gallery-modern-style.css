@@ -10,6 +10,7 @@ img {
 .pic-01, .pic-03, .pic-05, .pic-07 {
     margin-left: 7rem;
     margin-right: 70rem;
+    padding: 1rem 1rem 1rem 1rem;
     text-align: center;
     font-weight: bold;
     background-color: rgba(231, 84, 128, 0.85);
@@ -18,6 +19,7 @@ img {
 .pic-02, .pic-04, .pic-06, .pic-08 {
     margin-left: 70rem;
     margin-right: 7rem;
+    padding: 1rem 1rem 1rem 1rem;
     text-align: center;
     font-weight: bold;
     background-color: rgba(231, 84, 128, 0.85);

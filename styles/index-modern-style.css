@@ -12,12 +12,12 @@ main h2 {
 }
 
 .content {
-    display: flex;
+    display: block;
 }
 
 /* Furry Friends Box Styling */
 .furry-friends {
-    display: flex;
+    display: block;
     background-color: rgba(231, 84, 128, 0.85);
     text-align: left;
     margin-left: 7rem;
@@ -31,9 +31,9 @@ main h2 {
 
 /* Announcements Box Styling */
 .announcements {
-    display: flex;
+    display: block;
     background-color: rgba(231, 84, 128, 0.85);
-    text-align: right;
+    text-align: left;
     margin-left: 90rem;
     margin-right: 7rem;
     padding: .5rem 1rem .5rem 1rem;
