@@ -1,11 +1,24 @@
+
+/* Header Styling */
+
 header {
     background-image: url(../images/H_Couch_Sleeping.jpg);
     background-size: cover;
 }
 
+/* Text Styling */
+
+main h2, main p {
+    text-align: center;
+}
+
+/* Picture Styling */
+
 img {
     max-width: 50rem;
 }
+
+/* Left Sided Pictures */
 
 .pic-01, .pic-03, .pic-05, .pic-07 {
     margin-left: 7rem;
@@ -15,6 +28,8 @@ img {
     font-weight: bold;
     background-color: rgba(231, 84, 128, 0.85);
 }
+
+/* Right Side Pictures */
 
 .pic-02, .pic-04, .pic-06, .pic-08 {
     margin-left: 70rem;
