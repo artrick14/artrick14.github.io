@@ -3,3 +3,12 @@ header {
     background-image: url(../images/H_Kiki_Perch_.jpg);
     background-size: cover;
 }
+
+/* FAQ Questions */
+
+.questions {
+    margin: 1rem 7rem 2rem 7rem;
+    border-style: dotted;
+    border-color: white;
+    border-width: 5px;
+}
